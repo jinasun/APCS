@@ -3,7 +3,8 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "provenance": []
+      "provenance": [],
+      "include_colab_link": true
     },
     "kernelspec": {
       "name": "python3",
@@ -14,6 +15,16 @@
     }
   },
   "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/jinasun/APCS/blob/main/conditional_statements\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
     {
       "cell_type": "markdown",
       "source": [
@@ -156,7 +167,7 @@
         },
         "outputId": "23d4c8b5-7cb7-40db-c1f3-18f90ad3214e"
       },
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -208,7 +219,7 @@
         },
         "outputId": "79a46b55-5265-416a-a5d7-ca31d472afbd"
       },
-      "execution_count": 4,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -258,7 +269,7 @@
         },
         "outputId": "d59ff16a-bcf1-4921-8a1b-038b5c5c8315"
       },
-      "execution_count": 9,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -301,7 +312,7 @@
         },
         "outputId": "4a6c92cb-744a-4624-8c1d-a9960a25917c"
       },
-      "execution_count": 2,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -352,7 +363,7 @@
         },
         "outputId": "cfe8ef08-1edf-49e1-b6df-f1d675957a92"
       },
-      "execution_count": 11,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -392,7 +403,7 @@
         },
         "outputId": "8120bc87-cb7a-47e3-dd17-ce2cc9e35d91"
       },
-      "execution_count": 12,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
